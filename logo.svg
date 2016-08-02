@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="258.53398"
-     inkscape:cy="380.49174"
+     inkscape:zoom="0.70000001"
+     inkscape:cx="243.94268"
+     inkscape:cy="348.6158"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -70,17 +70,17 @@
      inkscape:label="Layer 2">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:79.57559967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;font-size:79.57559967px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#2f3238;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
        x="249.50768"
        y="611.93573"
        id="text4150"
        sodipodi:linespacing="125%"
-       inkscape:export-xdpi="45"
-       inkscape:export-ydpi="45"><tspan
+       inkscape:export-xdpi="17.166079"
+       inkscape:export-ydpi="17.166079"><tspan
          sodipodi:role="line"
          id="tspan4152"
          x="249.50768"
          y="611.93573"
-         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Bold';fill:#ffffff;fill-opacity:1">TY</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:'Futura LT';-inkscape-font-specification:'Futura LT Ultra-Bold';fill:#2f3238;fill-opacity:1;">TY</tspan></text>
   </g>
 </svg>
