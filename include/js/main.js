@@ -24,7 +24,7 @@ BRUSHED.mobileNav = function(){
 }
 
 BRUSHED.listenerMenu = function(){
-	$('#mobile-nav').on('click', function(e){
+	$('#mobile-nav').on('click', function(e){a
 		$(this).toggleClass('open');
 		
 		if ($('#mobile-nav').hasClass('open')) {
